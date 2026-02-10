@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "El Nene",
+  "base_artist": "Junior H",
+  "createdAt": "2026-02-10T17:54:04.859307Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "El Nene",
+      "artist": "Junior H",
+      "has_synced": true,
+      "path": "select/01_El_Nene_Junior_H.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "EL NENE",
+      "artist": "Anuel AA feat. Foreign Teck",
+      "has_synced": true,
+      "path": "select/02_EL_NENE_Anuel_AA_feat._Foreign_Teck.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "EL NENE",
+      "artist": "Anuel AA & Foreign Teck",
+      "has_synced": true,
+      "path": "select/03_EL_NENE_Anuel_AA_&_Foreign_Teck.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "EL NENE",
+      "artist": "Foreign Teck feat. Anuel AA",
+      "has_synced": true,
+      "path": "select/04_EL_NENE_Foreign_Teck_feat._Anuel_AA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "EL NENE",
+      "artist": "Foreign Teck, Anuel Aa",
+      "has_synced": true,
+      "path": "select/05_EL_NENE_Foreign_Teck,_Anuel_Aa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anda Bien el Nene",
+      "artist": "Oscar Maydon feat. Grupo Marca Registrada",
+      "has_synced": true,
+      "path": "select/06_Anda_Bien_el_Nene_Oscar_Maydon_feat._Grupo_Marca_Registrada.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Oscar Maydon x Grupo Marca Registrada - Anda Bien El Nene [Official Video]",
+      "artist": "Rancho Humilde",
+      "has_synced": true,
+      "path": "select/07_Oscar_Maydon_x_Grupo_Marca_Registrada_-_Anda_Bien_El_Nene_[Official_Video]_Rancho_Humilde.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Anda Bien el Nene",
+      "artist": "Oscar Maydon & Grupo Marca Registrada",
+      "has_synced": true,
+      "path": "select/08_Anda_Bien_el_Nene_Oscar_Maydon_&_Grupo_Marca_Registrada.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anda Bien el Nene",
+      "artist": "Óscar Maydon, Grupo Marca Registrada",
+      "has_synced": true,
+      "path": "select/09_Anda_Bien_el_Nene_Óscar_Maydon,_Grupo_Marca_Registrada.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "El Nene Más Malo del Mundo (Remasterizado 2019)",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/10_El_Nene_Más_Malo_del_Mundo_(Remasterizado_2019)_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "El nene más malo del mundo",
+      "artist": "Miguel Mateos",
+      "has_synced": true,
+      "path": "select/11_El_nene_más_malo_del_mundo_Miguel_Mateos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anda Bien el Nene",
+      "artist": "Oscar Maydon",
+      "has_synced": true,
+      "path": "select/12_Anda_Bien_el_Nene_Oscar_Maydon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anda Bien el Nene",
+      "artist": "Marca Registrada & Oscar Maydon",
+      "has_synced": true,
+      "path": "select/13_Anda_Bien_el_Nene_Marca_Registrada_&_Oscar_Maydon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "EL NENE",
+      "artist": "Anuel AA",
+      "has_synced": true,
+      "path": "select/14_EL_NENE_Anuel_AA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "QUIÉN TE QUIERE COMO EL NENE",
+      "artist": "Álvaro Díaz",
+      "has_synced": true,
+      "path": "select/15_QUIÉN_TE_QUIERE_COMO_EL_NENE_Álvaro_Díaz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Anda Bien el Nene",
+      "artist": "Oscar Maydon • Grupo Marca Registrada",
+      "has_synced": true,
+      "path": "select/16_Anda_Bien_el_Nene_Oscar_Maydon_•_Grupo_Marca_Registrada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "EL NENE",
+      "artist": "Foreign Teck",
+      "has_synced": true,
+      "path": "select/17_EL_NENE_Foreign_Teck.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "EL NENE",
+      "artist": "Anuel AA",
+      "has_synced": true,
+      "path": "select/18_EL_NENE_Anuel_AA.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "EL MAKINON",
+      "artist": "KAROL G feat. Mariah Angeliq",
+      "has_synced": true,
+      "path": "select/19_EL_MAKINON_KAROL_G_feat._Mariah_Angeliq.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "LA FAMA (Live en el Palau Sant Jordi)",
+      "artist": "ROSALÍA",
+      "has_synced": true,
+      "path": "select/20_LA_FAMA_(Live_en_el_Palau_Sant_Jordi)_ROSALÍA.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "El Paso",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/21_El_Paso_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "El Paso (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/22_El_Paso_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "El Paso (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/23_El_Paso_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "El Paso City",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/24_El_Paso_City_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "El Paso City (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/25_El_Paso_City_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "El Extraño Del Pelo Largo",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": false,
+      "path": "select/26_El_Extraño_Del_Pelo_Largo_Los_Enanitos_Verdes.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Perdiendo el Control",
+      "artist": "Mateos Miguel",
+      "has_synced": false,
+      "path": "select/27_Perdiendo_el_Control_Mateos_Miguel.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Perdiendo El Contacto",
+      "artist": "Friccion",
+      "has_synced": true,
+      "path": "select/28_Perdiendo_El_Contacto_Friccion.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "03 - Perdiendo El Contacto",
+      "artist": "Friccion",
+      "has_synced": true,
+      "path": "select/29_03_-_Perdiendo_El_Contacto_Friccion.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Por El Resto",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/30_Por_El_Resto_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "03 - Por El Resto",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/31_03_-_Por_El_Resto_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "El Rock Es Mi Forma de Ser",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/32_El_Rock_Es_Mi_Forma_de_Ser_Virus.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "13 - El Rock Es Mi Forma De Ser",
+      "artist": "Virus",
+      "has_synced": true,
+      "path": "select/33_13_-_El_Rock_Es_Mi_Forma_De_Ser_Virus.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "El Juego Comienza",
+      "artist": "Git",
+      "has_synced": true,
+      "path": "select/34_El_Juego_Comienza_Git.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "1986 - 11 - El Juego Comienza",
+      "artist": "Git",
+      "has_synced": true,
+      "path": "select/35_1986_-_11_-_El_Juego_Comienza_Git.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Así Es el Calor",
+      "artist": "Los Abuelos de la Nada",
+      "has_synced": true,
+      "path": "select/36_Así_Es_el_Calor_Los_Abuelos_de_la_Nada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "El Azul",
+      "artist": "Junior H & Peso Pluma",
+      "has_synced": false,
+      "path": "select/pl_01_El_Azul_Junior_H_&_Peso_Pluma.txt"
+    }
+  ]
+}
